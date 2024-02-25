@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.bda45e39.css",
+    "main.js": "/restaurant/static/js/main.ec410bd6.js",
+    "static/media/menubg.png": "/restaurant/static/media/menubg.edcd7d72e811279c06e3.png",
+    "static/media/statsTop.png": "/restaurant/static/media/statsTop.dad6ab6e3c78f612ceb4.png",
+    "static/media/statsBottom.png": "/restaurant/static/media/statsBottom.713400419fb3fe0215f8.png",
+    "static/media/quotesBG.jpg": "/restaurant/static/media/quotesBG.9081a65258f04bae8b45.jpg",
+    "static/media/header.jpg": "/restaurant/static/media/header.37942e8fa91130bca39e.jpg",
+    "static/media/offer.jpg": "/restaurant/static/media/offer.e0db944f330e127974f7.jpg",
+    "static/media/orientaltaste.jpg": "/restaurant/static/media/orientaltaste.8c2184e3e5ea26f89778.jpg",
+    "static/media/statsMid.png": "/restaurant/static/media/statsMid.c1d75d752625adaba577.png",
+    "static/media/bsell2.jpg": "/restaurant/static/media/bsell2.a6dd1286d6facbcbbe45.jpg",
+    "static/media/bsell3.jpg": "/restaurant/static/media/bsell3.91cf05fb3a15d69dc7e5.jpg",
+    "static/media/bsell1.jpg": "/restaurant/static/media/bsell1.8f5a2551410c2d630919.jpg",
+    "static/media/subscriptionBG.jpg": "/restaurant/static/media/subscriptionBG.73d09deb15e34098dd69.jpg",
+    "index.html": "/restaurant/index.html",
+    "main.bda45e39.css.map": "/restaurant/static/css/main.bda45e39.css.map",
+    "main.ec410bd6.js.map": "/restaurant/static/js/main.ec410bd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bda45e39.css",
+    "static/js/main.ec410bd6.js"
+  ]
+}
